@@ -28,4 +28,4 @@ docker run -d --restart always -p 8995:8995 bengivre/nosana-exporter \
 
 # Grafana
 
-![grafana img](https://github.com/bengivre/nosana-exporter/blob/main/gafana.png?raw=true)
+![grafana img](https://github.com/bengivre/nosana-exporter/blob/main/img/gafana.png?raw=true)
